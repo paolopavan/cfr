@@ -7,4 +7,4 @@ The ESP maps are externally computed by Arguslab, a free available molecular mod
 It was my very first program in java, now I realize that has many stylistic issues, sorry about that. It just represent my first experience in this world, done more than ten years ago and has some romantic flavour for me. I don't exclude I will do some refactoring in the future but I cannot assure it.
 I have put it here because I realized that it has been closed in a drawer for many years, so I thought: why don't put it on internet? Someone may be interested in it and can bring it to new life. If you are interested in extend it or use it, I only require you to drop me an email (find it in the colophon in my home page) and cite my name. That's all. I can also give you some hints on how to run whole pipeline.
 
-It the source is included an old version of the Weka library of University of Waikato. I have no right on that I have just included it because it has an obsolete api.
+It the source is included an old version of the Weka library by University of Waikato. I have no right on that I have just included it because it has an obsolete api.
